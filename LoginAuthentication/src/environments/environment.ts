@@ -6,12 +6,14 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyCm4TfxHRsmfzxddDoSqWrkIzYW0fgliQ4",
-    authDomain: "loginauth-587f3.firebaseapp.com",
-    databaseURL: "https://loginauth-587f3.firebaseio.com",
-    projectId: "loginauth-587f3",
-    storageBucket: "",
-    messagingSenderId: "867472994160",
-    appId: "1:867472994160:web:a4d13d45e52737ea"
+    apiKey: "AIzaSyAVtA6x_fdwJ08UgVKAGa6C1Ok_cBshbyA",
+    authDomain: "popflix-8dc0b.firebaseapp.com",
+    databaseURL: "https://popflix-8dc0b.firebaseio.com",
+    projectId: "popflix-8dc0b",
+    storageBucket: "popflix-8dc0b.appspot.com",
+    messagingSenderId: "257847214620",
+    appId: "1:257847214620:web:daae58efd38f5de66695d9",
+    measurementId: "G-TME5PY0BPX"
+
   }
 };
